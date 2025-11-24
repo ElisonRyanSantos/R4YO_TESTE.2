@@ -1,0 +1,303 @@
+[
+  {
+    "nome": "R4YO GAMING",
+    "descricao": "Uma Guilda criada apartir de uma resenha entre dois amigos, que tinha  um sonho de dar certo no cenário de e-sports brasileiro e quem sabe mundial.",
+    "data_criacao": "19/05/2024",
+    "link": "https://www.instagram.com/r4yo.gaming?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "tags": [
+      "Guilda",
+      "R4YO"
+      
+    ]
+  },
+  {
+    "nome": "Line Mobile de FF",
+    "descricao": "A Line principal e inicial da R4YO,Composta por amigos e que chegou a ter um player de portugal.",
+    "data_criacao": "2024-2025",
+    "link": "",
+    "tags": [
+      "Mobile",
+      "Free Fire ",
+      "Line inicial",
+      "Lines"
+      
+    ]
+  },
+  {
+    "nome": "Line Emulador de FF",
+    "descricao": "A line emulador da R4YO foi uma parceria feita entre a R4YO e a antiga line de daniel, com objetivo de expandir a guilda.",
+    "data_criacao": "2024",
+    "link": "",
+    "tags": [
+      "Lines",
+      "Emulador",
+      "Free Fire",
+      "Betfire"
+    ]
+  },
+  {
+    "nome": "Line 4V4",
+    "descricao": "Era uma mistura da R4YO EMULADOR com a line de Vinicius, foi a que mais ganhou campeonatos mesmo jogando pouco.",
+    "data_criacao": "2024",
+    "link": "",
+    "tags": [
+      "4V4",
+      "Lines",
+      "Misto"
+      
+    ]
+  },
+  {
+    "nome": "Daniel Victor Sangiolle (HANNIBAL)",
+    "descricao": "Fundador da R4YO,Cpt da line mobile,Multifunções,Homem dos contatos e muito mais.",
+    "data_criacao": "27/02/2007",
+    "link": "https://www.instagram.com/danielsangiolle?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "tags": [
+      "Fundadores",
+      "Players",
+      "CPT",
+      "Mobiles"
+      
+    ]
+  },
+  {
+    "nome": "Élison Ryan Santos (RYANZIN)",
+    "descricao": "Fundador e CEO da R4YO,Coach da line mobile,multifunções e Organizador dos camps.",
+    "data_criacao": "25/10/2007",
+    "link": "https://www.instagram.com/ryanzinhoks/",
+    "tags": [
+      "Fundadores",
+      "Mobiles",
+      "Coach",
+      "Players"
+    ]
+  },
+  {
+    "nome": "Victor Gabriel (MINATO)",
+    "descricao": "Rush,Suporte e um dos primeiros players da R4YO e player da line mobile.",
+    "data_criacao": "18/05/2007",
+    "link": "https://www.instagram.com/_victor_gabriel09/?utm_source=ig_web_button_share_sheet",
+    "tags": [
+      "Rush",
+      "Suporte",
+      "Players",
+      "Line Mobile"
+    ]
+  },
+  {
+    "nome": "Artur Vinicius (THURZINN)",
+    "descricao": "Suporte,Nosso mini Prodigio,um dos primeiros players da R4YO e player da line Mobile.",
+    "data_criacao": "2009",
+    "link": "https://www.instagram.com/arturvin.08/?utm_source=ig_web_button_share_sheet",
+    "tags": [
+      "Suporte",
+      "Line Mobile",
+      "Players"
+      
+    ]
+  },
+  {
+    "nome": "Davi felipe (DAVINZX)",
+    "descricao": "Rush,Granadeiro,um dos primeiros players da R4YO e player da line Mobile.",
+    "data_criacao": "2024",
+    "link": "https://www.instagram.com/d4vi_felipe_/?utm_source=ig_web_button_share_sheet",
+    "tags": [
+      "Players",
+      "Line Mobile",
+      "Rush",
+      "Granadeiro"
+      
+    ]
+  },
+  {
+    "nome": "Lukas Mamedes (SPACE)",
+    "descricao": "Suporte,player da line Mobile e reserva de luxo.",
+    "data_criacao": "2024",
+    "link": "https://www.instagram.com/luk4s.vn?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "tags": [
+      "Suporte",
+      "Line Mobile",
+      "Players"
+      
+    ]
+  },
+  {
+    "nome": "Jayana Vitoria (LOIRINHA)",
+    "descricao": "Player feminina e uma pessoa de poucas palavras.",
+    "data_criacao": "2024",
+    "link": "https://www.instagram.com/jayanavitoria_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "tags": [
+      "Players",
+      "R4 FEMININA"
+      
+    ]
+  },
+  {
+    "nome": "Elber Augusto (...)",
+    "descricao": "Rush,Granadeiro e Player reserva urgente da line Mobile.",
+    "data_criacao": "17/10/2007",
+    "link": "https://www.instagram.com/correei4z_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "tags": [
+      "Players",
+      "Line Mobile",
+      "Rush",
+      "Granadeiro"
+    ]
+  },
+  {
+    "nome": "Kubernetes (K8s)",
+    "descricao": "Um sistema open source para automatizar a implantação, escalonamento e gerenciamento de aplicações em contêineres.",
+    "data_criacao": "2014",
+    "link": "https://kubernetes.io/",
+    "tags": [
+      "orquestração",
+      "devops",
+      "cloud computing",
+      "containers"
+    ]
+  },
+  {
+    "nome": "Terraform",
+    "descricao": "Uma ferramenta de Infraestrutura como Código (IaC) que permite provisionar e gerenciar infraestrutura de nuvem usando arquivos de configuração declarativos.",
+    "data_criacao": "2014",
+    "link": "https://www.terraform.io/",
+    "tags": [
+      "iac",
+      "devops",
+      "cloud computing",
+      "hashicorp"
+    ]
+  },
+  {
+    "nome": "AWS Lambda",
+    "descricao": "Um serviço de computação serverless orientado a eventos que permite executar código sem provisionar ou gerenciar servidores.",
+    "data_criacao": "2014",
+    "link": "https://aws.amazon.com/lambda/",
+    "tags": [
+      "serverless",
+      "cloud computing",
+      "aws",
+      "computação"
+    ]
+  },
+  {
+    "nome": "Vue.js",
+    "descricao": "Um framework progressivo de JavaScript para a construção de interfaces de usuário, conhecido por sua facilidade de integração.",
+    "data_criacao": "2014",
+    "link": "https://vuejs.org/",
+    "tags": [
+      "framework",
+      "frontend",
+      "javascript",
+      "ui"
+    ]
+  },
+  {
+    "nome": "Angular",
+    "descricao": "Um framework de desenvolvimento de aplicações de página única (SPA) mantido pelo Google, baseado em TypeScript.",
+    "data_criacao": "2016",
+    "link": "https://angular.io/",
+    "tags": [
+      "framework",
+      "frontend",
+      "typescript",
+      "spa"
+    ]
+  },
+  {
+    "nome": "Next.js",
+    "descricao": "Um framework React full-stack que permite renderização do lado do servidor (SSR) e geração de sites estáticos (SSG).",
+    "data_criacao": "2016",
+    "link": "https://nextjs.org/",
+    "tags": [
+      "framework",
+      "fullstack",
+      "react",
+      "ssr"
+    ]
+  },
+  {
+    "nome": "Svelte",
+    "descricao": "Um compilador que transforma componentes em código JavaScript eficiente, sem a necessidade de um framework pesado no navegador.",
+    "data_criacao": "2016",
+    "link": "https://svelte.dev/",
+    "tags": [
+      "framework",
+      "frontend",
+      "compilador",
+      "ui"
+    ]
+  },
+  {
+    "nome": "GraphQL",
+    "descricao": "Uma linguagem de consulta de dados para APIs e um tempo de execução para satisfazer essas consultas com seus dados existentes.",
+    "data_criacao": "2015",
+    "link": "https://graphql.org/",
+    "tags": [
+      "api",
+      "linguagem de consulta",
+      "serviços",
+      "backend"
+    ]
+  },
+  {
+    "nome": "Apache Kafka",
+    "descricao": "Uma plataforma de streaming de eventos distribuída que permite publicar, assinar, armazenar e processar fluxos de registros em tempo real.",
+    "data_criacao": "2011",
+    "link": "https://kafka.apache.org/",
+    "tags": [
+      "message broker",
+      "streaming",
+      "big data",
+      "infraestrutura"
+    ]
+  },
+  {
+    "nome": "gRPC",
+    "descricao": "Um framework moderno de chamada de procedimento remoto (RPC) de código aberto, que utiliza HTTP/2 para comunicação eficiente e buffers de protocolo.",
+    "data_criacao": "2015",
+    "link": "https://grpc.io/",
+    "tags": [
+      "protocolo",
+      "api",
+      "microserviços",
+      "comunicação"
+    ]
+  },
+  {
+    "nome": "Tailwind CSS",
+    "descricao": "Um framework CSS utility-first que fornece classes de baixo nível para construir designs customizados diretamente no seu markup.",
+    "data_criacao": "2017",
+    "link": "https://tailwindcss.com/",
+    "tags": [
+      "css",
+      "frontend",
+      "framework",
+      "design"
+    ]
+  },
+  {
+    "nome": "Solidity",
+    "descricao": "Uma linguagem de programação orientada a contratos para escrever smart contracts que rodam na Ethereum Virtual Machine (EVM).",
+    "data_criacao": "2014",
+    "link": "https://soliditylang.org/",
+    "tags": [
+      "blockchain",
+      "linguagem de programação",
+      "smart contracts",
+      "web3"
+    ]
+  },
+  {
+    "nome": "RabbitMQ",
+    "descricao": "Um dos mais populares message brokers de código aberto, implementando o Advanced Message Queuing Protocol (AMQP).",
+    "data_criacao": "2007",
+    "link": "https://www.rabbitmq.com/",
+    "tags": [
+      "message broker",
+      "infraestrutura",
+      "mensageria",
+      "serviços"
+    ]
+  }
+]
