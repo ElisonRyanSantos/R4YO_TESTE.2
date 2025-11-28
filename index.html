@@ -8,34 +8,38 @@
 </head>
 <body>
     <header>
-        <h1>R4YO GAMING</h1>
-        <div>
-            <input type="text" placeholder="Digite oque quer saber">
-            <button id="botao-busca" onclick="iniciarBusca()">Buscar</button>
+        <div class="header-container">
+            <h1 class="logo">R4YO GAMING</h1>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Busque por nome, tag ou descrição...">
+            </div>
         </div>
     </header>
 
     <main>
+        <section class="hero">
+            <h2>De Raids a Deploys</h2>
+            <p>Explorando o universo dos games com a R4YO GAMING e mergulhando em tecnologias de desenvolvimento e DevOps. Este é o meu diário de bordo digital.</p>
+        </section>
+
+        <nav class="nav-filter">
+            <button class="filter-btn active" data-filter="all">Todos</button>
+            <button class="filter-btn" data-filter="Guilda">A Guilda</button>
+            <button class="filter-btn" data-filter="Players">Players</button>
+            <button class="filter-btn" data-filter="devops">DevOps</button>
+        </nav>
+
         <section class="card-container">
           
         </section>
     </main>
 
     <footer class="footer">
-        <div class="footer-location">
-            Brasil
-        </div>
+        <p>&copy; 2025 R4YO.DEV - Desenvolvido por Élison Ryan.</p>
         <ul class="footer-links">
-            <li>
-                <a href="https://www.instagram.com/r4yo.gaming?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">Instagram</a>
-            </li>
-            <li>
-                <a href="https://www.instagram.com/danielsangiolle?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">Instragram CEO</a>
-            </li>
-            <li>
-                <a href="https://www.instagram.com/ryanzinhoks/" target="_blank">Instragram CEO</a>
-            </li>
-            <li><a href="https://www.linkedin.com/in/%C3%A9lison-ryan-67b9b1327/" target="_blank">Linkedin CEO</a></li>
+            <li><a href="https://www.instagram.com/r4yo.gaming?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">Instagram</a></li>
+            <li><a href="https://www.linkedin.com/in/C3%A9lison-ryan-67b9b1327/" target="_blank">Linkedin</a></li>
+            <li><a href="mailto:elisonsantosryan@gmail.com" target="_blank">Gmail</a></li>
         </ul>
     </footer>
     <script src="script.js"></script>
